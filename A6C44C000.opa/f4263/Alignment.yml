@@ -1,0 +1,18 @@
+segment_sources:
+  IFEC0E801:
+    type: origin_type
+    relation: translation
+    language: bo
+  I59932ECB:
+    type: origin_type
+    relation: translation
+    language: zh
+  I6406064E:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  d2a1da8851c742d69d95a8950a5244b7:
+    IFEC0E801: 1e081c8b0e0845ee9c8053a4bb52e052
+    I59932ECB: 70f3d5dc6b1c4554bd6a54a83072e136
+    I6406064E: 27a2624d9b174f35b30546465211514c

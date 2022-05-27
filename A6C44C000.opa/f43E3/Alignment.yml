@@ -1,0 +1,22 @@
+segment_sources:
+  IFEC0E801:
+    type: origin_type
+    relation: translation
+    language: bo
+  I59932ECB:
+    type: origin_type
+    relation: translation
+    language: zh
+  I6406064E:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  dbde2b1ead99486bb7e57741e31d1224:
+    IFEC0E801: ed7791a88e5a4548addf54523a899606
+    I59932ECB: 110b7de1ca4f4794aadbe5f798f263de
+    I6406064E: 5344442c7e514bce822c3a828011c362
+  0238a21085d04b9fa5826a2162697671:
+    IFEC0E801: d1969f4336fe4ed98e1a47cd751be50c
+    I59932ECB: None
+    I6406064E: bdf92e736b634879904bb950f40ac429
